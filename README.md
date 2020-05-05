@@ -1,1 +1,2 @@
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:196.11%;position:relative;"><iframe width="360" height="706" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4040m5"></iframe></div><p><a href="https://imgflip.com/gif/4040m5">via Imgflip</a></p></div>
+This react native app use https://covid19.mathdro.id/api to retrieve latest corona virus datas in the world. Be Safe!
+gif available at: https://imgflip.com/gif/4040m5
